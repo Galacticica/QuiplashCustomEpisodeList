@@ -1,6 +1,9 @@
 # QuiplashCustomEpisodeList
 List of all known Custom Quiplash Episodes for use on The Jackbox Party Packs. Note that I have not personally played all these episodes so I can not vouche for their saftey on younger audience members. I am just curating them to a single area on Github for people to find more easily.
 
+### Disney
+- Disney: QMT-LVXR
+
 ### Spooky Halloween
 - Spooky Halloween 16: NKP-KXLR
 
@@ -49,6 +52,10 @@ All packs that contain blatant adult/mature content will be found below
 
 ### Cards Against Furries
 - CAF: TDW-ZHDN
+
+### Cards Against Disney
+- Cards Against Disney 1: FCV-MQBS
+- Cards Against Disney 2: KRS-PEJG
 
 ### Letterkenny (NSFW)
  - LK: HXJ-VMRW
