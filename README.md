@@ -27,6 +27,10 @@ List of all known Custom Quiplash Episodes for use on The Jackbox Party Packs. N
 ### Jackbox Holiday Pack
 - Jackbox Holiday: RWB-NHQZ
 
+### Disney
+- Disney: QMT-LVXR
+
+
 
 # Known Adult/NSFW Content Packs
 All packs that contain blatant adult/mature content will be found below
@@ -37,7 +41,7 @@ All packs that contain blatant adult/mature content will be found below
 - Expansions 4-6: VPN-NQCE
 - Greenbox: HDY-FNSJ 
 - Other Expansions 1: SLD-ZMNM
-- Other Expansions 2: QSD-GBKQ 
+- Other Expansions 2: QSD-GBKQ
 
 ### Cards Against Rick and Morty
 - CA: Rick and Morty: GZM-RLFL
@@ -49,6 +53,10 @@ All packs that contain blatant adult/mature content will be found below
 
 ### Cards Against Furries
 - CAF: TDW-ZHDN
+
+### Cards Against Disney
+- CAD 1: FCV-MQBS
+- CAD 2: KRS-PEJG
 
 ### Letterkenny (NSFW)
  - LK: HXJ-VMRW
